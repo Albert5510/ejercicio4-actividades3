@@ -1,8 +1,8 @@
 Funcionamiento
 general
 ∙ Se almacenan los fuentes en el servidor
-∙ Cada desaroyador obtiene una copia
-∙ Cuando un desaroyador va a modificar un
+∙ Cada desarroyador obtiene una copia
+∙ Cuando un desarroyador va a modificar un
 fichero, se informa
 ∙ Cuando se ha modificado, se actualiza el
 servidor
