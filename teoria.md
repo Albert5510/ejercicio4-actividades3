@@ -1,8 +1,8 @@
 Funcionamiento
 general
 ∙ Se almacenan los fuentes en el servidor
-∙ Cada desarrollador obtiene una copia
-∙ Cuando un desarrollador va a modificar un
+∙ Cada desarroyador obtiene una copia
+∙ Cuando un desarroyador va a modificar un
 fichero, se informa
 ∙ Cuando se ha modificado, se actualiza el
 servidor
